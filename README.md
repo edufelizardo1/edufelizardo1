@@ -1,35 +1,42 @@
-### Hi there 👋
+![image](https://visitor-badge.glitch.me/badge?page_id=edufelizardo1.visitor-badge)
+![image](https://img.shields.io/github/followers/edufelizardo1?style=social)
 
-<!--
-**edufelizardo1/edufelizardo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 
+### My Name is Eduardo Felizardo Cândido
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student and I have the ✨opportunity✨ to collaborate on related projects where quality tests are needed, with that I'm acquiring a deep learning in QA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+Here are some facts about me:
+
+- 🔭 I’m currently working on Quality Assurance.
+- 🌱 I’m currently learning Quality Assurance.
+<!-- - 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+## 🎯 Let's Keep in Touch and Follow me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardo-felizardo-c%C3%A2ndido-28b16122)
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+## 💻 Programming Language
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1)](https://github.com/edufelizardo1/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1&show_icons=true)
+## 💻 Frameworks && Tolls
+![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![image](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 💻 IDE
+![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![image](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## ⭐ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edufelizardo1&repo=github-readme-stats)](https://github.com/edufelizardo1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edufelizardo1&show_icons=true&theme=radical)](https://github.com/edufelizardo1/github-readme-stats)
 
 
-
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
