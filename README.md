@@ -1,5 +1,10 @@
-![image](https://visitor-badge.glitch.me/badge?page_id=edufelizardo1.visitor-badge)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=edufelizardo1.visitor-badge)
 ![image](https://img.shields.io/github/followers/edufelizardo1?style=social)
+<!-- ![Profile views](https://gpvc.arturio.dev/edufelizardo1) -->
+
+
+
+
 
 ## Hi there 👋 
 ### My Name is Eduardo Felizardo Cândido
@@ -38,5 +43,14 @@ Here are some facts about me:
 ## ⭐ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edufelizardo1&show_icons=true&theme=radical)](https://github.com/edufelizardo1/github-readme-stats)
+
+##
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=edufelizardo1&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+## 
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=edufelizardo1&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 
