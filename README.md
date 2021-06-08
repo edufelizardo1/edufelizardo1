@@ -48,7 +48,8 @@ Here are some facts about me:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edufelizardo1&theme=radical)](https://git.io/streak-stats)
 
 ## 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=edufelizardo1&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=edufelizardo1&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
+![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=edufelizardo1&theme=radical)
 
 
 
