@@ -45,7 +45,7 @@ Here are some facts about me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edufelizardo1&show_icons=true&theme=radical)](https://github.com/edufelizardo1/github-readme-stats)
 
 ##
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=edufelizardo1&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edufelizardo1&theme=radical)](https://git.io/streak-stats)
 
 ## 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=edufelizardo1&row=1)](https://github.com/ryo-ma/github-profile-trophy)
