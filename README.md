@@ -23,10 +23,12 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1)](https://github.com/edufelizardo1/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edufelizardo1&repo=github-readme-stats)](https://github.com/edufelizardo1/github-readme-stats)
+
 
 
 
