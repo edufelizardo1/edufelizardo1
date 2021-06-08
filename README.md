@@ -25,6 +25,8 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufelizardo1&show_icons=true)
+
 
 
 
