@@ -22,7 +22,8 @@ Here are some facts about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🎯 Let's Keep in Touch and Follow me -> <!--[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]-->[![made-with-java](https://img.shields.io/badge/professional_contact-Linkedin-00FFFF.svg)](https://www.linkedin.com/in/eduardo-felizardo-c%C3%A2ndido-28b16122) <!--[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]-->[![made-with-java](https://img.shields.io/badge/email_contact-GMail-DC143C.svg)](edufelizardo1@gmail.com)
+#### 🎯 Let's Keep in Touch and Follow me 
+## <!--[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]-->[![made-with-java](https://img.shields.io/badge/professional_contact-Linkedin-00FFFF.svg)](https://www.linkedin.com/in/eduardo-felizardo-c%C3%A2ndido-28b16122) <!--[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]-->[![made-with-java](https://img.shields.io/badge/email_contact-GMail-DC143C.svg)](edufelizardo1@gmail.com)
 
 ## 💻 <!--Programming Language-->[![made-with-java](https://img.shields.io/badge/programming_language-Java-800000.svg)](https://www.jetbrains.com/) [![made-with-java](https://img.shields.io/badge/programming_language-SQL-000080.svg)](https://docs.microsoft.com/pt-br/sql/?view=sql-server-ver15)
 <!--![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)-->
