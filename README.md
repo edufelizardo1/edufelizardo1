@@ -56,6 +56,4 @@ Here are some facts about me:
 <!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=edufelizardo1&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 ![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=edufelizardo1&theme=radical)
 
-![](https://media1.giphy.com/media/eUdtR10ZsxlFC/giphy.gif?cid=ecf05e47qg1i92avp6q8lwthjdo8nsrnf9kicfwqqyq864va&rid=giphy.gif&ct=g)
-
-
+<!--![](https://media1.giphy.com/media/eUdtR10ZsxlFC/giphy.gif?cid=ecf05e47qg1i92avp6q8lwthjdo8nsrnf9kicfwqqyq864va&rid=giphy.gif&ct=g)-->
