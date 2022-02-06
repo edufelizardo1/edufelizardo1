@@ -1,72 +1,56 @@
 ## ![visitors](https://visitor-badge.laobi.icu/badge?page_id=edufelizardo1.visitor-badge) ![image](https://img.shields.io/github/followers/edufelizardo1?style=social) 
 <!-- ![Profile views](https://gpvc.arturio.dev/edufelizardo1) -->
 
-## Hi there 👋 
-## My Name is Eduardo Felizardo Cândido
+<h1 align="center">Hi 👋, I'm Eduardo Felizardo Cândido</h1>
+<h3 align="center">A passionate for Quality Assurance. I'm from Brazil</h3>
 
-I'm a Computer Engineering student and I have the ✨opportunity✨ to collaborate on related projects where quality tests are needed, with that I'm acquiring a deep learning in QA.
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=edufelizardo1&label=Profile%20views&color=0e75b6&style=flat" alt="edufelizardo1" /> </p>-->
 
-Here are some facts about me:
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edufelizardo1" alt="edufelizardo1" /></a> </p>-->
+<div align="center" >
+  <img width="70%" height="100%" src="https://github-profile-trophy.vercel.app/?username=edufelizardo1&theme=radical"/>
+</div>
 
-- :mag_right: I’m currently working on Quality Assurance.
-- :memo: I’m currently learning Quality Assurance.
+<p align="left"> <a href="https://twitter.com/edufelizardo" target="blank"><img src="https://img.shields.io/twitter/follow/edufelizardo?logo=twitter&style=for-the-badge" alt="edufelizardo" /></a> </p>
 
-### 🎯 Let's Keep in Touch and Follow me 
-## <!--[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]-->[![made-with-java](https://img.shields.io/badge/professional_contact-Linkedin-00FFFF.svg)](https://www.linkedin.com/in/eduardo-felizardo-c%C3%A2ndido-28b16122) <!--[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]-->[![made-with-java](https://img.shields.io/badge/email_contact-GMail-DC143C.svg)](edufelizardo1@gmail.com)
+- 🔭 I’m currently working on [GFT Grup](https://www.gft.com/br/pt)
 
-### :computer: Programming languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Language-Java-800000.svg" width="90px"/>  
-  <img src="https://img.shields.io/badge/Language-SQL-000080.svg"width="90px"/>  
-</div><br/>
-<!--##  <!--Programming Language[![made-with-java](https://img.shields.io/badge/Language-Java-800000.svg)](https://www.jetbrains.com/) [![made-with-java](https://img.shields.io/badge/Language-SQL-000080.svg)](https://docs.microsoft.com/pt-br/sql/?view=sql-server-ver15)-->
+- 🌱 I’m currently learning **Bachelor in Computer Engineering, BDD, Cypress**
 
+- 👯 I’m looking to collaborate on [of QA](https://web.dio.me/users/edufelizardo1?tab=achievements)
 
-<!--## 💻 Frameworks && Tolls
-![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![image](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)-->
+- 🤝 I’m looking for help with [Knowledge in the QA field](https://www.udemy.com/)
 
-### 💻 Framework
-<div align="center">
-  <img src="https://img.shields.io/badge/framework-Spring-00FF00.svg" width="90px"/>  
-  <img src="https://img.shields.io/badge/framework-Selenium-228B22.svg" width="100px"/>
-  <img src="https://img.shields.io/badge/framework-Cypress-363636.svg" width="100px"/>  
-  <img src="https://img.shields.io/badge/framework-Maven-8B008B.svg" width="90px"/>  
-  <img src="https://img.shields.io/badge/framework-Robot-20B2AA.svg" width="90px"/>
-</div><br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/framework-JUnit-8B0000.svg" width="80px"/>  
-  <img src="https://img.shields.io/badge/framework-Mokito-8B0000.svg" width="90px"/>  
-  <img src="https://img.shields.io/badge/framework-Java_Collections-8B0000.svg" width="120px"/>
-  <img src="https://img.shields.io/badge/framework-TestNG-FFFF00.svg" width="85px"/>
-  <img src="https://img.shields.io/badge/framework-UFT-FFFF00.svg" width="75px"/>
-</div><br/>
-<!--[![made-with-java](https://img.shields.io/badge/framework-Spring-00FF00.svg)](https://spring.io/) [![made-with-java](https://img.shields.io/badge/framework-Selenium-228B22.svg)](https://www.selenium.dev/) [![made-with-java](https://img.shields.io/badge/framework-Cypress-363636.svg)](https://www.cypress.io/) [![made-with-java](https://img.shields.io/badge/framework-Maven-8B008B.svg)](https://maven.apache.org/) [![made-with-java](https://img.shields.io/badge/framework-Robot-20B2AA.svg)](https://robotframework.org/) [![made-with-java](https://img.shields.io/badge/framework-JUnit-8B0000.svg)](https://junit.org/junit5/) [![made-with-java](https://img.shields.io/badge/framework-Mokito-8B0000.svg)](https://site.mockito.org/) [![made-with-java](https://img.shields.io/badge/framework-Spring_Security-00FF00.svg)](https://spring.io/projects/spring-security) [![made-with-java](https://img.shields.io/badge/framework-Java_Collections-8B0000.svg)](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html) [![made-with-java](https://img.shields.io/badge/framework-TestNG-FFFF00.svg)](https://testng.org/doc/)-->
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/edufelizardo1)
 
-### 💻 Tools and Integration
-<div align="center">
-  <img src="https://img.shields.io/badge/tool-Postman-FF7F50.svg" width="80px"/>  
-  <img src="https://img.shields.io/badge/tool-Jenkins-B22222.svg" width="75px"/>  
-  <img src="https://img.shields.io/badge/tool-Git-800000.svg" width="52px"/>
-  <img src="https://img.shields.io/badge/tool-Jira-F0E68C.svg" width="55px"/>
-  <img src="https://img.shields.io/badge/tool-ALM_Octane-000080.svg" width="98px"/>
-</div><br/>
-<!--[![made-with-java](https://img.shields.io/badge/tool-Postman-FF7F50.svg)](https://www.postman.com/) [![made-with-java](https://img.shields.io/badge/tool-Jenkins-B22222.svg)](https://www.jenkins.io/) [![made-with-java](https://img.shields.io/badge/tool-Git-800000.svg)](https://git-scm.com/) [![made-with-java](https://img.shields.io/badge/tool-Jira-F0E68C.svg)](https://www.atlassian.com/br/software/jira) [![made-with-java](https://img.shields.io/badge/tool-MySQL-000080.svg)](https://www.mysql.com/) [![made-with-java](https://img.shields.io/badge/tool-ALM_Octane-000080.svg)](https://www.microfocus.com/pt-br/products/alm-octane/overview)-->
+- 📝 I regularly write articles on [ESAQ](https://edufelizardo.wixsite.com/esaq)
 
-### 💻 IDE (Integrated Development Environment)
-<div align="center">
-  <img src="https://img.shields.io/badge/ide-Intellij-1C1C1C.svg" width="80px"/>  
-  <img src="https://img.shields.io/badge/ide-Eclipse-191970.svg" width="81px"/>  
-</div><br/>
-<!--[![made-with-java](https://img.shields.io/badge/ide-Intellij-1C1C1C.svg)](https://www.jetbrains.com/) [![made-with-java](https://img.shields.io/badge/ide-Eclipse-191970.svg)](https://www.eclipse.org/) [![made-with-java](https://img.shields.io/badge/ide-VSCode-0000FF.svg)](https://code.visualstudio.com/)-->
-<!--![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![image](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)-->
+- 💬 Ask me about **BDD and test in language Java**
+
+- 📫 How to reach me **edufelizardo1@gmail.com**
+
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/eduardo-felizardo-cândido-28b16122/)
+
+- ⚡ Fun fact **spend a lot of time studying**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/edufelizardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edufelizardo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-felizardo-cândido-28b16122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-felizardo-cândido-28b16122/" height="30" width="40" /></a>
+<a href="https://fb.com/eduardo.parrudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eduardo.parrudo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCVrqUODniQ-hkvjsWu7df6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Eduardo Felizardo Cândido" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
+
+<h3 align="left">IDE (Integrated Development Environment):</h3> 
+
+* Intellij
+
+* Eclipse
+
+* VS Code
 
 ## ⭐ GitHub Stats
 <div align="center" >
@@ -79,17 +63,10 @@ Here are some facts about me:
 
 ##
 <div align="center" >
-  <!--<img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufelizardo1&show_icons=true&theme=radical" />-->
   <img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufelizardo1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edufelizardo1&show_icons=true&theme=radical)](https://github.com/edufelizardo1/github-readme-stats)-->
 
 ## 
 <div align="center" >
-  <!--<img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufelizardo1&show_icons=true&theme=radical" />-->
   <img width="70%" height="100%" src="https://github-profile-trophy.vercel.app/?username=edufelizardo1&theme=radical"/>
 </div>
-<!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=edufelizardo1&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!--![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=edufelizardo1&theme=radical)-->
-
-<!--![](https://media1.giphy.com/media/eUdtR10ZsxlFC/giphy.gif?cid=ecf05e47qg1i92avp6q8lwthjdo8nsrnf9kicfwqqyq864va&rid=giphy.gif&ct=g)-->
