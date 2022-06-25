@@ -152,5 +152,5 @@
     * [zumbiGame_basic_projects](https://github.com/edufelizardo1/Certicados) <img src="https://img.shields.io/badge/Concluded-25%25-red"/>  <img src="https://img.shields.io/badge/public-Yes-green"/>
 * Visual Basic
   * [PMAQ---Projeto-Pessoal---VB.NET](https://github.com/edufelizardo1/PMAQ---Projeto-Pessoal---VB.NET)  <img src="https://img.shields.io/badge/Concluded-100%25-green"/>  <img src="https://img.shields.io/badge/public-Yes-green"/>
- * CYPRESS
+* CYPRESS
   * [curso-cypress](https://github.com/edufelizardo1/curso-cypress)  <img src="https://img.shields.io/badge/Concluded-15%25-red"/>  <img src="https://img.shields.io/badge/public-Yes-green"/>
