@@ -17,8 +17,6 @@
 
 <p align="left"> <a href="https://twitter.com/edufelizardo" target="blank"><img src="https://img.shields.io/twitter/follow/edufelizardo?logo=twitter&style=for-the-badge" alt="edufelizardo" /></a> </p>
 
-- 🔭 I’m currently working on [GFT Grup](https://www.gft.com/br/pt)
-
 - 🌱 I’m currently learning **Bachelor in Computer Engineering, BDD, Cypress**
 
 - 👯 I’m looking to collaborate on [of QA](https://web.dio.me/users/edufelizardo1?tab=achievements)
@@ -27,13 +25,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/edufelizardo1)
 
-- 📝 I regularly write articles on [ESAQ](https://edufelizardo.wixsite.com/esaq)
-
 - 💬 Ask me about **BDD and test in language Java**
 
 - 📫 How to reach me **edufelizardo1@gmail.com**
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/eduardo-felizardo-cândido-28b16122/)
 
 - ⚡ Fun fact **spend a lot of time studying**
 
@@ -41,9 +35,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/edufelizardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edufelizardo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-felizardo-cândido-28b16122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-felizardo-cândido-28b16122/" height="30" width="40" /></a>
-<a href="https://fb.com/eduardo.parrudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eduardo.parrudo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCVrqUODniQ-hkvjsWu7df6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Eduardo Felizardo Cândido" height="30" width="40" /></a>
 </p>
 
