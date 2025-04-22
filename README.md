@@ -1,4 +1,4 @@
-### Hi 👋, I'm Eduardo Felizardo Cândido
+### Hi 👋, I'm Eduardo
 ## ![visitors](https://visitor-badge.laobi.icu/badge?page_id=edufelizardo1.visitor-badge) ![image](https://img.shields.io/github/followers/edufelizardo1?style=social) 
 <!-- ![Profile views](https://gpvc.arturio.dev/edufelizardo1) -->
 
