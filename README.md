@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 * Bootcamp
   * [Decola-Dev-Avanade-2021](https://github.com/edufelizardo1/Decola-Dev-Avanade-2021)  <img src="https://img.shields.io/badge/Concluded-100%25-green"/>  <img src="https://img.shields.io/badge/public-No-red"/>
   * [Bootcamp](https://github.com/edufelizardo1/Bootcamp) <img src="https://img.shields.io/badge/Concluded-100%25-green"/>  <img src="https://img.shields.io/badge/public-No-red"/>
-  * [GFT-STARTER-2021](https://github.com/edufelizardo1/GFT-START-2021) <img src="https://img.shields.io/badge/Concluded-100%25-green"/>  <img src="https://img.shields.io/badge/public-Yes-green"/>
+  * [STARTER-2021](https://github.com/edufelizardo1/GFT-START-2021) <img src="https://img.shields.io/badge/Concluded-100%25-green"/>  <img src="https://img.shields.io/badge/public-Yes-green"/>
 
 * Complementary certificates/courses
   * [Certificados](https://github.com/edufelizardo1/Certicados) <img src="https://img.shields.io/badge/Updated-Yes-green"/>  <img src="https://img.shields.io/badge/public-Yes-green"/>
